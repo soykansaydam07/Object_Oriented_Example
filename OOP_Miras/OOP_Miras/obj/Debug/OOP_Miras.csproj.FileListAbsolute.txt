@@ -1,0 +1,9 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\bin\Debug\OOP_Miras.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\bin\Debug\OOP_Miras.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\bin\Debug\OOP_Miras.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Miras\OOP_Miras\obj\Debug\OOP_Miras.pdb

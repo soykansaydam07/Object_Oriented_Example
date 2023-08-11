@@ -1,0 +1,12 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\bin\Debug\OOP_Delegate_Events.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\bin\Debug\OOP_Delegate_Events.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\bin\Debug\OOP_Delegate_Events.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.pdb
+C:\Users\Soykan\Desktop\Stuff\C#\C# Working\OOP_Yapılı_Projeler\OOP_Delegate_Events\OOP_Delegate_Events\bin\Debug\OOP_Delegate_Events.exe.config
+C:\Users\Soykan\Desktop\Stuff\C#\C# Working\OOP_Yapılı_Projeler\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.exe
+C:\Users\Soykan\Desktop\Stuff\C#\C# Working\OOP_Yapılı_Projeler\OOP_Delegate_Events\OOP_Delegate_Events\obj\Debug\OOP_Delegate_Events.pdb

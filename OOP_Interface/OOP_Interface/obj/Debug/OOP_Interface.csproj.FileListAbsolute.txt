@@ -1,0 +1,8 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\bin\Debug\OOP_Interface.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Interface\OOP_Interface\obj\Debug\OOP_Interface.pdb

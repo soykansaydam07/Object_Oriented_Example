@@ -1,0 +1,9 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\bin\Debug\OOP_Delegates.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\bin\Debug\OOP_Delegates.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\bin\Debug\OOP_Delegates.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Delegates\OOP_Delegates\obj\Debug\OOP_Delegates.pdb

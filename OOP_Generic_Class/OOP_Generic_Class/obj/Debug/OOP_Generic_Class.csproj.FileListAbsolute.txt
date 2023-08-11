@@ -1,0 +1,4 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Generic_Class\OOP_Generic_Class\obj\Debug\OOP_Generic_Class.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Generic_Class\OOP_Generic_Class\obj\Debug\OOP_Generic_Class.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Generic_Class\OOP_Generic_Class\obj\Debug\OOP_Generic_Class.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Generic_Class\OOP_Generic_Class\obj\Debug\OOP_Generic_Class.csproj.GenerateResource.Cache

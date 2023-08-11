@@ -1,0 +1,10 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\bin\Debug\OOP_Giris.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Giris\OOP_Giris\obj\Debug\OOP_Giris.Personeller.resources

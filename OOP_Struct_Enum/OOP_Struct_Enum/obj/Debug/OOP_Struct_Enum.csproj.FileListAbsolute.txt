@@ -1,0 +1,9 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\bin\Debug\OOP_Struct_Enum.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\bin\Debug\OOP_Struct_Enum.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\bin\Debug\OOP_Struct_Enum.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.csprojResolveAssemblyReference.cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_Struct_Enum\OOP_Struct_Enum\obj\Debug\OOP_Struct_Enum.pdb

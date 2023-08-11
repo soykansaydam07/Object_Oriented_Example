@@ -1,0 +1,9 @@
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.Form1.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.Properties.Resources.resources
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.csproj.GenerateResource.Cache
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\bin\Debug\OOP_CokBıcımlılık.exe.config
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\bin\Debug\OOP_CokBıcımlılık.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\bin\Debug\OOP_CokBıcımlılık.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.exe
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.pdb
+C:\Users\soykan\Desktop\Stuff\C#\C# Working\OOP_CokBıcımlılık\OOP_CokBıcımlılık\obj\Debug\OOP_CokBıcımlılık.csprojResolveAssemblyReference.cache
